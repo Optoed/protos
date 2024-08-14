@@ -10,6 +10,7 @@ AlgorithmsOnlineLibrary is a web application for creating and storing algorithms
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [API Endpoints](#api-endpoints)
+- [Database Schema](#database-schema)
 - [License](#license)
 
 ## Features
@@ -101,6 +102,11 @@ This project uses the following dependencies:
 - **GET /algorithms**: Retrieve a list of all algorithms.
 - **POST /algorithms**: Submit a new algorithm.
 - **GET /algorithms/{id}**: Get details of a specific algorithm.
+
+## Database Schema
+
+For detailed information about the database schema, see [DATABASE_SCHEMA.md](./DATABASE_SCHEMA.md).
+
 
 ## License
 
